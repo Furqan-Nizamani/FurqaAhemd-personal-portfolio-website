@@ -13,7 +13,7 @@ import { MdOutlineMenuOpen } from "react-icons/md";
 import { FaCloudDownloadAlt } from "react-icons/fa";
 export default function Navbar() {
     return (
-        <div className="sticky top-0 z-auto">
+        <div className="sticky top-0 -z-50">
             <header className="bg-slate-100 lg:py-1 ">
                 <div className="mx-auto max-w-7xl lg:px-1">
                     {/* lg+ */}
